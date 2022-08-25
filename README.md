@@ -1,3 +1,11 @@
+NOTE
+----
+
+This is just a fork where I'll try to merge PRs which LGTM, and are required. The original repository has been inactive for around 4 years, all the credits go to the author of the PRs, and I'll make sure they appear in the commits. :tada:
+
+- I'm using zsh, so most of the fixes will be related to zsh. But if someone wants to have a fix for other shells, please create a PR and we can discuss it there. (can't create issues yet, sorry :())
+- I'm using Linux, I understand a lot of people had issues with Windows - I'm happy to merge PRs that look good but can't really test them. If someone wants to test them out for me, and help merge, I'll appreciate the help.
+
 NAME
 ----
 
